@@ -1,0 +1,17 @@
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\bin\Debug\netcoreapp2.2\Zone_Demo.deps.json
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\bin\Debug\netcoreapp2.2\Zone_Demo.runtimeconfig.json
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\bin\Debug\netcoreapp2.2\Zone_Demo.runtimeconfig.dev.json
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\bin\Debug\netcoreapp2.2\Zone_Demo.dll
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\obj\Debug\netcoreapp2.2\Zone_Demo.csprojAssemblyReference.cache
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\obj\Debug\netcoreapp2.2\Zone_Demo.RazorAssemblyInfo.cache
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\obj\Debug\netcoreapp2.2\Zone_Demo.RazorAssemblyInfo.cs
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\obj\Debug\netcoreapp2.2\Zone_Demo.AssemblyInfoInputs.cache
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\obj\Debug\netcoreapp2.2\Zone_Demo.AssemblyInfo.cs
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\obj\Debug\netcoreapp2.2\Zone_Demo.RazorTargetAssemblyInfo.cache
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\bin\Debug\netcoreapp2.2\Zone_Demo.pdb
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\obj\Debug\netcoreapp2.2\Zone_Demo.dll
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\obj\Debug\netcoreapp2.2\Zone_Demo.pdb
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Hoang\source\repos\Zone_Demo\Zone_Demo\obj\Debug\netcoreapp2.2\EFCoreSqlServerNetTopologySuite.cs
